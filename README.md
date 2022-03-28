@@ -1,6 +1,6 @@
 # League of legend project coding files
 
-## Our data：
+## Our data (folder data)：
 1. data.csv：raw dataset
 2. data_nomissing.csv: Data with no missing value
 3. data_cleaned.csv: Data after cleanning
